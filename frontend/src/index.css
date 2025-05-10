@@ -1,0 +1,12 @@
+body {
+  background: #f8f9fa;
+}
+
+.navbar {
+  border-radius: 0 0 10px 10px;
+}
+
+button:focus {
+  outline: none;
+  box-shadow: none;
+}
